@@ -1,0 +1,19 @@
+#bg {
+	background-color:#dcdcdc;
+}
+
+.btn {
+	margin:10px;
+	background-color: #2F4F4F;
+	color: white;
+}
+
+#add-animal{
+	margin-left:0px;
+}
+ 
+#animal-input{
+	width: 400px;
+} 
+
+
